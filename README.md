@@ -5,7 +5,7 @@
 [![PyPI Version](http://img.shields.io/pypi/v/Flask-RESTful.svg)](https://pypi.python.org/pypi/Flask-RESTful)
 
 Flask-RESTful provides the building blocks for creating a great REST API.
-Forked from the Official Repo
+Forked from the Official Repo - 0.3.7
 
 ## User Guide
 
